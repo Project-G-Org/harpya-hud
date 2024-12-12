@@ -1,9 +1,9 @@
-[submodule "web"]
+[submodule "Web"]
     path = Web
     url = https://github.com/Project-G-Org/harpya-web.git
-[submodule "common"]
+[submodule "Common"]
     path = Common
     url = https://github.com/Project-G-Org/harpya-common.git
-[submodule "desktop"]
-	path = Desktop
+[submodule "harpya-desktop"]
+	path = harpya-desktop
 	url = https://github.com/Project-G-Org/harpya-desktop.git
